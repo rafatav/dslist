@@ -2,8 +2,6 @@ package com.devsuperior.dslist.entities;
 
 import java.util.Objects;
 
-import com.devsuperior.dslist.BelongingPK;
-
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

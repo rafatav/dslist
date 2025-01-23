@@ -1,9 +1,6 @@
-package com.devsuperior.dslist;
+package com.devsuperior.dslist.entities;
 
 import java.util.Objects;
-
-import com.devsuperior.dslist.entities.Game;
-import com.devsuperior.dslist.entities.GameList;
 
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
